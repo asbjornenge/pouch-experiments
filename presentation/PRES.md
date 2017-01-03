@@ -23,7 +23,7 @@ controls: false
 * IndexedDB with WebSQL fallback
 * Offline support
 * Replication (CouchDB and compatible)
-* LevelUp + LevelDown API 
+* LevelUp compliant...? 
 
 --
 
@@ -55,6 +55,12 @@ controls: false
 * SQLdown
 
 ...and [many](https://github.com/Level/levelup/wiki/Modules#storage-back-ends) others.
+
+--
+
+<img src="logo.svg" alt="logo" style="width: 800px;"/>
+
+* LevelUp Compliant :heart_eyes: 
 
 -- center
 
