@@ -52,6 +52,7 @@ controls: false
 * MemDOWN
 * RiakDOWN
 * MongoDOWN
+* SQLdown
 
 ...and [many](https://github.com/Level/levelup/wiki/Modules#storage-back-ends) others.
 
