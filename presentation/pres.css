@@ -1,0 +1,9 @@
+.center {
+  margin: auto;
+}
+.center .slide-content {
+  display: flex;
+}
+.center .slide-content pre {
+  margin: auto;
+}
