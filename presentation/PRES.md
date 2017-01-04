@@ -27,7 +27,8 @@ controls: false
 
 --
 
-# LevelDB
+<img src="leveldb.svg" alt="logo" style="width: 200px; float: left"/>
+<div style="color: #666; font-size: 5em; font-weight: 400; padding-top: 15px; margin-left: 250px">leveldb</div>
 
 * Google 2011 (IndexedDB spec)
 * Inspired by BigTable
