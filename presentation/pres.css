@@ -4,6 +4,12 @@
 .center .slide-content {
   display: flex;
 }
-.center .slide-content pre {
+.center .slide-content p { 
+  margin: auto;
+}
+.centercode .slide-content {
+  display: flex;
+}
+.centercode .slide-content pre {
   margin: auto;
 }

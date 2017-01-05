@@ -64,10 +64,20 @@ controls: false
 
 <img src="logo.svg" alt="logo" style="width: 800px;"/>
 
-* LevelUP compliant 😍
-* asd
+* LevelUP compliant 😍😍😍😍😍😍😍😍😍😍😍😍😍😍😍😍😍😍😍😍😍😍😍😍😍😍😍😍😍😍😍😍😍😍😍😍😍😍😍😍😍😍😍😍😍😍😍😍😍😍😍😍😍😍😍😍😍😍😍😍😍😍😍😍😍😍😍😍😍😍
 
--- center
+
+-- center 
+
+<img src="dance.gif" alt="dance" style="width: 500px;" />
+
+-- centercode
+
+```sh
+npm install pouchdb --save
+```
+
+-- centercode
 
 ```javascript
 var db = new PouchDB('dbname');
