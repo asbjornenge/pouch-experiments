@@ -23,7 +23,7 @@ controls: false
 * IndexedDB with WebSQL fallback
 * Offline support
 * Solid Replication (CouchDB and compatible)
-* LevelUp compliant...? 
+* LevelUP compliant...? 
 
 --
 
@@ -44,15 +44,14 @@ controls: false
 
 * LevelDB comes to Node 🚀
 * LevelUP - Node-friendly API for LevelDB (2012)
-* LevelUP 💪 lingua franca for persistent datastores 
-* LevelDOWN -> LevelDB
-* Write against LevelUP and you can swap DB engine
-
-:tada:
+* LevelUP 💪 lingua franca for persistent datastores (SQL)
+* LevelDOWN - (cheekily named) LevelDB binding
+* Write against LevelUP and you can swap DB engine 🎉
 
 --
 
-# LevelDOWN
+<img src="leveldb.svg" alt="logo" style="width: 200px; float: left"/>
+<div style="color: #666; font-size: 5em; font-weight: 400; padding-top: 15px; margin-left: 250px">leveldb</div>
 
 * MemDOWN
 * RiakDOWN
@@ -65,7 +64,8 @@ controls: false
 
 <img src="logo.svg" alt="logo" style="width: 800px;"/>
 
-* LevelUp Compliant :heart_eyes: 
+* LevelUP compliant 😍
+* asd
 
 -- center
 
