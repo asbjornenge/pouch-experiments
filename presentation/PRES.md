@@ -22,7 +22,7 @@ controls: false
 * All major browsers
 * IndexedDB with WebSQL fallback
 * Offline support
-* Replication (CouchDB and compatible)
+* Solid Replication (CouchDB and compatible)
 * LevelUp compliant...? 
 
 --
@@ -30,18 +30,22 @@ controls: false
 <img src="leveldb.svg" alt="logo" style="width: 200px; float: left"/>
 <div style="color: #666; font-size: 5em; font-weight: 400; padding-top: 15px; margin-left: 250px">leveldb</div>
 
-* Google 2011 (IndexedDB spec)
+* HTML5 ~ WebSQL 💥 (2009 ish) 
+* IndexedDB 🙌
+* LevelDB by Google (2011)
 * Inspired by BigTable
 * Really good!!
 
 --
 
-# LevelDOWN
+<img src="leveldb.svg" alt="logo" style="width: 200px; float: left"/>
+<div style="color: #666; font-size: 5em; font-weight: 400; padding-top: 15px; margin-left: 250px">leveldb</div>
 
-> LevelDB comes to Node.
 
+* LevelDB comes to Node 🚀
+* LevelUP - Node-friendly API for LevelDB (2012)
+* LevelUP 💪 lingua franca for persistent datastores 
 * LevelDOWN -> LevelDB
-* LevelUP -> High level API
 * Write against LevelUP and you can swap DB engine
 
 :tada:
