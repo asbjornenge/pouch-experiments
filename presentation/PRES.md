@@ -19,7 +19,7 @@ controls: false
 
 <img src="logo.svg" alt="logo" style="width: 800px;"/>
 
-* All major browsers
+* All major browsers 💪 
 * IndexedDB with WebSQL fallback
 * Offline support
 * Solid Replication (CouchDB and compatible)
@@ -64,8 +64,8 @@ controls: false
 
 <img src="logo.svg" alt="logo" style="width: 800px;"/>
 
-* LevelUP compliant 😍😍😍😍😍😍😍😍😍😍😍😍😍😍😍😍😍😍😍😍😍😍😍😍😍😍😍😍😍😍😍😍😍😍😍😍😍😍😍😍😍😍😍😍😍😍😍😍😍😍😍😍😍😍😍😍😍😍😍😍😍😍😍😍😍😍😍😍😍😍
-
+* LevelUP compliant 😍😍😍😍😍😍😍
+* P2P (WebRTC)
 
 -- center 
 
@@ -77,28 +77,3 @@ controls: false
 npm install pouchdb --save
 ```
 
--- centercode
-
-```javascript
-var db = new PouchDB('dbname');
-
-db.put({
-  _id: 'dave@gmail.com',
-  name: 'David',
-  age: 69
-});
-
-db.changes().on('change', function() {
-  console.log('Ch-Ch-Changes');
-});
-
-db.replicate.to('http://example.com/mydb');
-```
-
---
-
-https://pouchdb.com/2014/07/25/pouchdb-levels-up.html
-
---
-
-En test hva er dette?
